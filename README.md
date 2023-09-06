@@ -1,2 +1,2 @@
-# light-con
-light-con
+# Light Controller
+Need someone create the description.
